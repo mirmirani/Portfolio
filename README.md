@@ -2,8 +2,8 @@ Portfolio
 
 List of projects
 
-| Name          | Langaueg      | Live   | Code  |
+| Name          | Language      | Demo   | Code  |
 | ------------- |-------------| :-----:|:-----:|
-| Hangman      | Python | LIVE | Code |
-| To Do List      | JavaScript | LIVE | Code |
-| Rock, Paper, Scissors | JavaScript| LIVE | Code |
+| Hangman      | Python | Demo | Code |
+| To Do List      | JavaScript | Demo | Code |
+| Rock, Paper, Scissors | JavaScript| Demo | Code |
